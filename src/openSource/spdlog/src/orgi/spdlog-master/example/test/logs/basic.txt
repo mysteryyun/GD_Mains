@@ -1,0 +1,2 @@
+[2017-01-11 17:59:25.992] [basic_logger] [info] Some log message
+*** [17:59:25 +08:00] [thread 7413] End of example. ***
